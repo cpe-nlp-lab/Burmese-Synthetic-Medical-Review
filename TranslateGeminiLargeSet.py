@@ -319,7 +319,7 @@ class DatasetTranslator:
 
 def main():
     
-    API_KEY = "YOUR_REAL_API_KEY_HERE"
+    API_KEY = "API KEY"
 
     CSV_FILE = "Medication.csv"
     CHUNK_SIZE = 50
