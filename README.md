@@ -81,14 +81,11 @@ This project uses the myWord Burmese tokenizer developed by Ye Kyaw Thu.
 Repository:
 https://github.com/ye-kyaw-thu/myWord
 
-If you use the preprocessing pipeline, please cite:
+If you use the preprocessing pipeline, please cite: "myWord: Syllable, Word and Phrase Segmenter for Burmese, Ye Kyaw Thu, Sept 2021, GitHub Link: https://github.com/ye-kyaw-thu/myWord" 
 
-@misc{ye2024myword,
-  author       = {Ye, Kyaw Thu},
-  title        = {{myWord}: Syllable, Word and Phrase Segmenter for Burmese},
-  howpublished = {\url{https://github.com/ye-kyaw-thu/myWord}},
-  year         = {2024}
-}
+## Original English Dataset
+
+The English medical review dataset used in this work was introduced in: "[Medical Sentiment Analysis using Social Media: Towards building a Patient Assisted System](https://aclanthology.org/L18-1442/) (Yadav et al., LREC 2018)" 
 
 ## Citation
 
