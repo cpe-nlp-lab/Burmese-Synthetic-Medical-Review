@@ -87,12 +87,12 @@ If you use the preprocessing pipeline, please cite: "myWord: Syllable, Word and 
 
 The English medical review dataset used in this work was introduced in: "[Medical Sentiment Analysis using Social Media: Towards building a Patient Assisted System](https://aclanthology.org/L18-1442/) (Yadav et al., LREC 2018)"
 
-## 📜 License
+## License
 
 - **Dataset:** CC BY-NC 4.0 (see `LICENSE-DATA`)
 - **Code:** Apache License 2.0 (see `LICENSE-CODE`)
 
-### ⚠️ Ethical Use
+### Ethical Use
 
 This dataset is intended for research purposes only and must not be used for clinical decision-making or deployed in real-world medical systems without proper validation.
 
