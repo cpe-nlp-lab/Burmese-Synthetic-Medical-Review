@@ -1,0 +1,32 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Copyright (c) 2026 King Mongkut’s University of Technology Thonburi
+
+This dataset is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial — You may not use the material for commercial purposes.
+
+Full license text:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+---------------------------------------------------------------------
+
+Ethical Use Notice
+
+This dataset is intended for research and educational purposes only.
+
+The dataset must NOT be used for:
+- Clinical decision-making
+- Medical diagnosis or treatment recommendations
+- Deployment in real-world healthcare systems without proper validation and regulatory approval
+
+The dataset is synthetically generated and may contain inaccuracies or artifacts.
+The authors are not responsible for any misuse or harm resulting from the use of this dataset.
+
+Users are encouraged to evaluate fairness, bias, and safety before applying this dataset in downstream tasks.
