@@ -1,14 +1,13 @@
-# Synthetic Burmese Medical Review Dataset
-### Sentiment Classification using Synthetic Data
+# mm-med-synth-Synthetic Burmese Medical Review Dataset
 
 This repository releases **mm-med-synth, first synthetic Burmese (Myanmar) medical review dataset** for sentiment classification. 
 
 This dataset accompanies the paper:
 
-> **[Classifying Burmese (Myanmar) Medical Reviews Using Synthetic Data Approach]** (https://ieeexplore.ieee.org/document/11459830)
+> **Classifying Burmese (Myanmar) Medical Reviews Using Synthetic Data Approach** (https://ieeexplore.ieee.org/document/11459830)
 > Hein Minn Thu, Pyae Bhone Moe, Nyein Chan Ko Ko, Aye Hninn Khine  
 > Advanced Analytics Lab, Department of Computer Engineering, King Mongkut’s University of Technology Thonburi (KMUTT).
->
+
 
 [mm-med-synth is also available on huggingface] (https://huggingface.co/datasets/cpe-kmutt-nlp/mm-med-synth)
 
