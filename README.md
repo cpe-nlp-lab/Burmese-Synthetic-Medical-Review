@@ -1,6 +1,6 @@
-# mm-med-synth-Synthetic Burmese Medical Review Dataset
+# my-mm-med-synth-Synthetic Burmese Medical Review Dataset
 
-This repository releases **mm-med-synth, first synthetic Burmese (Myanmar) medical review dataset** for sentiment classification. 
+This repository releases **my-mm-med-synth, first synthetic Burmese (Myanmar) medical review dataset** for sentiment classification. 
 
 This dataset accompanies the paper:
 
@@ -9,7 +9,7 @@ This dataset accompanies the paper:
 > Advanced Analytics Lab, Department of Computer Engineering, King Mongkut’s University of Technology Thonburi (KMUTT).
 
 
-[mm-med-synth is also available on huggingface] (https://huggingface.co/datasets/cpe-kmutt-nlp/mm-med-synth)
+[my-mm-med-synth dataset is also available on huggingface] (https://huggingface.co/datasets/cpe-kmutt-nlp/mm-med-synth)
 
 ##  Overview
 
