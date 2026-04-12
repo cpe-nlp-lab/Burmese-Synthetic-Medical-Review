@@ -4,8 +4,10 @@ This repository releases **my-mm-med-synth, first synthetic Burmese (Myanmar) me
 
 This dataset accompanies the paper:
 
-> **[Classifying Burmese (Myanmar) Medical Reviews Using Synthetic Data Approach]** (https://ieeexplore.ieee.org/document/11459830)
-> Hein Minn Thu, Pyae Bhone Moe, Nyein Chan Ko Ko, Aye Hninn Khine  
+> **Classifying Burmese (Myanmar) Medical Reviews Using Synthetic Data Approach** (https://ieeexplore.ieee.org/document/11459830)
+
+> Hein Minn Thu, Pyae Bhone Moe, Nyein Chan Ko Ko, Aye Hninn Khine
+ 
 > Advanced Analytics Lab, Department of Computer Engineering, King Mongkut’s University of Technology Thonburi (KMUTT).
 
 
@@ -13,7 +15,7 @@ This dataset accompanies the paper:
 
 ##  Overview
 
-Burmese is a **low-resource language** in Natural Language Processing (NLP), especially in the healthcare domain. Due to privacy and ethical constraints, publicly available annotated Burmese medical sentiment datasets are extremely limited.
+Burmese is a low-resource language in Natural Language Processing (NLP), especially in the healthcare domain. Due to privacy and ethical constraints, publicly available annotated Burmese medical sentiment datasets are extremely limited.
 
 This project addresses that gap by:
 
@@ -31,7 +33,7 @@ This dataset enables research in:
 
 ## Dataset Description
 
-The dataset consists of synthetic Burmese translations derived from two English medical review datasets [Medical Sentiment Analysis using Social Media: Towards building a Patient Assisted System](https://aclanthology.org/L18-1442/): 
+The dataset consists of synthetic Burmese translations derived from two English medical review datasets [Medical Sentiment Analysis using Social Media: Towards building a Patient Assisted System](https://aclanthology.org/L18-1442/) (Yadav et al., LREC 2018)
 
 ### Medical Condition Dataset (MCD)
 
