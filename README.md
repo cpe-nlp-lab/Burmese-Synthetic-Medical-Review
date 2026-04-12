@@ -4,12 +4,12 @@ This repository releases **my-mm-med-synth, first synthetic Burmese (Myanmar) me
 
 This dataset accompanies the paper:
 
-> **Classifying Burmese (Myanmar) Medical Reviews Using Synthetic Data Approach** (https://ieeexplore.ieee.org/document/11459830)
+> **[Classifying Burmese (Myanmar) Medical Reviews Using Synthetic Data Approach]** (https://ieeexplore.ieee.org/document/11459830)
 > Hein Minn Thu, Pyae Bhone Moe, Nyein Chan Ko Ko, Aye Hninn Khine  
 > Advanced Analytics Lab, Department of Computer Engineering, King Mongkut’s University of Technology Thonburi (KMUTT).
 
 
-[my-mm-med-synth dataset is also available on huggingface] (https://huggingface.co/datasets/cpe-kmutt-nlp/mm-med-synth)
+[my-mm-med-synth dataset is also available on huggingface](https://huggingface.co/datasets/cpe-kmutt-nlp/my-mm-med-synth)
 
 ##  Overview
 
